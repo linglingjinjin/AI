@@ -1,24 +1,5 @@
 # AI
 <!DOCTYPE html>
-<title>自主學習-人工智慧</title>
-<style>
-    .ly{
-        color:rgb(255, 255, 255);
-        text-align: center;
-        font-size: 100px;
-        font-family: Microsoft JhengHei;
-    }
-    div{
-        background: #2fabab;
-        background-attachment: fixed;
-        background-position: center;
-        height: 300px;
-        padding: 50px;
-    }
-    img{
-        float: left;
-    }
-</style>
 <div>
     <p class="ly">自主學習-人工智慧</p> 
 </div>
@@ -36,22 +17,24 @@
     <pre style="font-size: 30px; line-height: 1.3; margin-top: 0px;">    人工智慧（artificial intelligence，縮寫為AI）亦稱智械、機器智慧，指由人
     製造出來的機器所表現出來的智慧。通常人工智慧是指透過普通電腦程式來呈現人類
     智慧的技術。</pre>
-    <img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turing_Test_Version_3.svg/1200px-Turing_Test_Version_3.svg.png">
     <pre style="font-size: 40px; line-height: 2; margin-top: 0px; margin-bottom: 0px;">  (二)圖靈測試</pre>
     <pre style="font-size: 30px; line-height: 1.3; margin-top: 0px;">    圖靈測試是英國電腦科學家圖靈於1950年提出的思想實驗，目的在
     測試機器能否表現出與人一樣的智慧型水準。<br><br><br><br><br><br></pre>
-    <img width="350px" src="https://j3fau2wsnso1qkiarz7keon5-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/History_of_artificial_intelligence_tw.jpg">
+    <img width="250px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Turing_Test_Version_3.svg/1200px-Turing_Test_Version_3.svg.png">
+   
     <pre style="font-size: 40px; line-height: 2; margin-top: 0px; margin-bottom: 0px;">  (三)機器學習</pre>
     <pre style="font-size: 30px; line-height: 1.3; margin-top: 0px;">    機器學習是實現人工智慧的一個途徑，即以機器學習為手段
     解決人工智慧中的問題。
     機器學習演算法是一類從資料中自動分析獲得規律，並利用
     規律對未知資料進行預測的演算法。<br></pre>
-    <img width="350px" src="https://aifinpitchtw.com/upload/article/%E5%9C%96%E7%89%87%202.png">
+    <img width="350px" src="https://j3fau2wsnso1qkiarz7keon5-wpengine.netdna-ssl.com/wp-content/uploads/2018/05/History_of_artificial_intelligence_tw.jpg">
     <pre style="font-size: 40px; line-height: 2; margin-top: 0px; margin-bottom: 0px;">  (四)深度學習</pre>
     <pre style="font-size: 30px; line-height: 1.3; margin-top: 0px;">    深度學習是機器學習的分支，是一種以人工神經網路為架構
     ，對資料進行表徵學習的演算法。深度學習的好處是用非監
     督式或半監督式的特徵學習和分層特徵提取高效演算法來替
-    代手工取得特徵。
+    代手工取得特徵。</pre>
+    <img width="350px" src="https://aifinpitchtw.com/upload/article/%E5%9C%96%E7%89%87%202.png">
+    
     <p style="font-size: 50px; margin: 0px; margin-bottom: 0px;">三、參考資料</p>
     <pre style="font-size: 35px; line-height: 1.3; margin-top: -50px; margin-bottom: -45px;"><初階>【北市教育局證書】【開放課程】Hello AI ! 你的第一門人工智慧課!
 文字介紹-取自維基百科
