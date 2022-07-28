@@ -32,7 +32,7 @@
     <pre style="font-size: 30px; line-height: 1.3; margin-top: 0px;">    深度學習是機器學習的分支，是一種以人工神經網路為架構
     ，對資料進行表徵學習的演算法。深度學習的好處是用非監
     督式或半監督式的特徵學習和分層特徵提取高效演算法來替
-    代手工取得特徵。</pre>
+    代手工取得特徵。
     <img width="350px" src="https://aifinpitchtw.com/upload/article/%E5%9C%96%E7%89%87%202.png">
     
     <p style="font-size: 50px; margin: 0px; margin-bottom: 0px;">三、參考資料</p>
